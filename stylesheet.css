@@ -734,12 +734,3 @@ select {
     position: fixed;
     display: none;
 }
-
-@media (max-width) {
-    .navigation-block {
-    width: 1200px;
-    }
-    .service-provider {
-    width: 1200px;
-    }
-}
