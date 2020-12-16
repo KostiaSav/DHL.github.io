@@ -113,7 +113,7 @@ html {
     background-size: COVER;
     background-repeat: no-repeat;
     height: 550px;
-    background-image: url(Img/2-layers.png);
+    background-image: url(Img/2-layers.webp);
 }
 
 .cover-cnt {
@@ -330,7 +330,7 @@ html {
     background-color: #000000;
     width: 100%;
     background-size: cover;
-    background-image: url(Img/Layers-6.png);
+    background-image: url(Img/Layers-6.webp);
     opacity: 0.9;
     text-align: center;
     padding-top: 100px;
